@@ -33,3 +33,5 @@ echo hello SQL
 __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 psql --username=freecodecamp --dbname=postgres
+create database students
+psql --username=freecodecamp --dbname=postgres
