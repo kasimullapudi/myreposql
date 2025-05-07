@@ -36,3 +36,10 @@ psql --username=freecodecamp --dbname=postgres
 create database students
 psql --username=freecodecamp --dbname=postgres
 psql --username=freecodecamp --dbname=postgres
+git init
+git add .
+git remote -v
+git remote add origin https://github.com/kasimullapudi/freecodecamp.git
+git remote remove origin
+git remote add origin https://github.com/kasimullapudi/freecodecamp.git
+git add .
